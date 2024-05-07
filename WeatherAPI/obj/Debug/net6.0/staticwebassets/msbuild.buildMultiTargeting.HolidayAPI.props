@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HolidayAPI.props" />
+</Project>
